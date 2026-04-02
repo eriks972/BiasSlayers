@@ -7,8 +7,12 @@ from transformers import (
     TrainingArguments,
     Trainer
 )
-from sklearn.metrics import accuracy_score, f1_score
+from sklearn.metrics import accuracy_score, f1_score, classification_report
+import pandas as pd
 
+# -----------------------
+# 0. Device
+# -----------------------
 device = "mps" if torch.backends.mps.is_available() else "cpu"
 print("Using device:", device)
 
@@ -18,12 +22,19 @@ print("Using device:", device)
 train_df = load_data("data/train.tsv")
 test_df = load_data("data/test.tsv")
 
-# Convert to HuggingFace Dataset
+fake_df = train_df[train_df["label"] == 0]
+real_df = train_df[train_df["label"] == 1]
+
+# Upsample fake
+fake_df = fake_df.sample(len(real_df), replace=True)
+
+train_df = pd.concat([fake_df, real_df]).sample(frac=1)
+
 train_dataset = Dataset.from_pandas(train_df)
 test_dataset = Dataset.from_pandas(test_df)
 
 # -----------------------
-# 2. Load Tokenizer
+# 2. Tokenizer
 # -----------------------
 tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
 
@@ -32,7 +43,7 @@ def tokenize(example):
         example["text"],
         truncation=True,
         padding="max_length",
-        max_length=256
+        max_length=128   # ⚡ faster on Mac
     )
 
 train_dataset = train_dataset.map(tokenize, batched=True)
@@ -46,7 +57,7 @@ train_dataset.set_format(type="torch", columns=["input_ids", "attention_mask", "
 test_dataset.set_format(type="torch", columns=["input_ids", "attention_mask", "labels"])
 
 # -----------------------
-# 3. Load Model
+# 3. Model
 # -----------------------
 model = AutoModelForSequenceClassification.from_pretrained(
     "bert-base-uncased",
@@ -57,11 +68,31 @@ model = AutoModelForSequenceClassification.from_pretrained(
 model.to(device)
 
 # -----------------------
-# 4. Metrics
+# 4. Class Weights (FIXED)
+# -----------------------
+from torch.nn import CrossEntropyLoss
+
+class_weights = torch.tensor([3.0, 1.0]).to(device)
+
+def weighted_loss(model, inputs, return_outputs=False, **kwargs):
+    labels = inputs.get("labels")
+    outputs = model(**inputs)
+    logits = outputs.get("logits")
+
+    loss_fct = CrossEntropyLoss(weight=class_weights)
+    loss = loss_fct(logits, labels)
+
+    return (loss, outputs) if return_outputs else loss
+
+# -----------------------
+# 5. Metrics
 # -----------------------
 def compute_metrics(eval_pred):
     logits, labels = eval_pred
     preds = torch.argmax(torch.tensor(logits), dim=1)
+
+    print("\nClassification Report:")
+    print(classification_report(labels, preds))
 
     return {
         "accuracy": accuracy_score(labels, preds),
@@ -69,24 +100,24 @@ def compute_metrics(eval_pred):
     }
 
 # -----------------------
-# 5. Training Config
+# 6. Training Config
 # -----------------------
 training_args = TrainingArguments(
     output_dir="../models/bert",
     eval_strategy="epoch",
     save_strategy="epoch",
-    logging_dir="../logs",
-    learning_rate=2e-5,
-    per_device_train_batch_size=8,
-    per_device_eval_batch_size=8,
-    num_train_epochs=2,   # keep small for now
+    learning_rate=3e-5,
+    per_device_train_batch_size=4,   # ⚡ better for MPS
+    per_device_eval_batch_size=4,
+    num_train_epochs=3,
     weight_decay=0.01,
     load_best_model_at_end=True,
-    use_cpu=(device == "cpu")
+    use_cpu=(device == "cpu"),
+    logging_steps=100
 )
 
 # -----------------------
-# 6. Trainer
+# 7. Trainer
 # -----------------------
 trainer = Trainer(
     model=model,
@@ -96,13 +127,16 @@ trainer = Trainer(
     compute_metrics=compute_metrics
 )
 
+# 🔥 Inject custom loss
+trainer.compute_loss = weighted_loss
+
 # -----------------------
-# 7. Train
+# 8. Train
 # -----------------------
 trainer.train()
 
 # -----------------------
-# 8. Evaluate
+# 9. Evaluate
 # -----------------------
 results = trainer.evaluate()
-print(results)
+print("\nFinal Results:", results)
