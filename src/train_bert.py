@@ -21,6 +21,7 @@ print("Using device:", device)
 # -----------------------
 train_df = load_data("data/train.tsv")
 test_df = load_data("data/test.tsv")
+validation_da = load_data("data/valid.tsv")
 
 fake_df = train_df[train_df["label"] == 0]
 real_df = train_df[train_df["label"] == 1]
@@ -32,35 +33,41 @@ train_df = pd.concat([fake_df, real_df]).sample(frac=1)
 
 train_dataset = Dataset.from_pandas(train_df)
 test_dataset = Dataset.from_pandas(test_df)
+validation_dataset = Dataset.from_pandas(validation_da)
 
 # -----------------------
 # 2. Tokenizer
 # -----------------------
-tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
+tokenizer = AutoTokenizer.from_pretrained("roberta-base")
 
 def tokenize(example):
     return tokenizer(
         example["text"],
         truncation=True,
         padding="max_length",
-        max_length=128   # ⚡ faster on Mac
+        max_length=256   # ⚡ faster on Mac
     )
 
 train_dataset = train_dataset.map(tokenize, batched=True)
 test_dataset = test_dataset.map(tokenize, batched=True)
-
+validation_dataset = validation_dataset.map(tokenize, batched=True)
 # Rename label column
 train_dataset = train_dataset.rename_column("label", "labels")
 test_dataset = test_dataset.rename_column("label", "labels")
+validation_dataset = validation_dataset.rename_column("label", "labels")
 
 train_dataset.set_format(type="torch", columns=["input_ids", "attention_mask", "labels"])
 test_dataset.set_format(type="torch", columns=["input_ids", "attention_mask", "labels"])
+validation_dataset.set_format(
+    type="torch",
+    columns=["input_ids", "attention_mask", "labels"]
+)
 
 # -----------------------
 # 3. Model
 # -----------------------
 model = AutoModelForSequenceClassification.from_pretrained(
-    "bert-base-uncased",
+    "roberta-base",
     num_labels=2,
     problem_type="single_label_classification"
 )
@@ -72,7 +79,7 @@ model.to(device)
 # -----------------------
 from torch.nn import CrossEntropyLoss
 
-class_weights = torch.tensor([3.0, 1.0]).to(device)
+class_weights = torch.tensor([2.0, 1.0]).to(device)
 
 def weighted_loss(model, inputs, return_outputs=False, **kwargs):
     labels = inputs.get("labels")
@@ -106,10 +113,10 @@ training_args = TrainingArguments(
     output_dir="../models/bert",
     eval_strategy="epoch",
     save_strategy="epoch",
-    learning_rate=3e-5,
+    learning_rate=2e-5,
     per_device_train_batch_size=4,   # ⚡ better for MPS
     per_device_eval_batch_size=4,
-    num_train_epochs=3,
+    num_train_epochs=5,
     weight_decay=0.01,
     load_best_model_at_end=True,
     use_cpu=(device == "cpu"),
@@ -123,7 +130,7 @@ trainer = Trainer(
     model=model,
     args=training_args,
     train_dataset=train_dataset,
-    eval_dataset=test_dataset,
+    eval_dataset=validation_dataset,
     compute_metrics=compute_metrics
 )
 
@@ -140,3 +147,5 @@ trainer.train()
 # -----------------------
 results = trainer.evaluate()
 print("\nFinal Results:", results)
+trainer.save_model("models/roberta")
+tokenizer.save_pretrained("models/roberta")
