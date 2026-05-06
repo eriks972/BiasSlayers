@@ -7,17 +7,18 @@ export default function Home() {
   const [mode, setMode] = useState("validity");
   const [result, setResult] = useState<any>(null);
   const [loading, setLoading] = useState(false);
+  const [url, setUrl] = useState("");
 
   const analyze = async () => {
     setLoading(true);
     try {
-     const res = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/predict_all`, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({ text }),
-     });
+      const res = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/predict_all`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ text }),
+    });
 
     const data = await res.json();
     setResult(data);
