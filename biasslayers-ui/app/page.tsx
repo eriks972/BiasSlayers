@@ -17,7 +17,7 @@ export default function Home() {
       headers: {
         "Content-Type": "application/json",
       },
-      body: JSON.stringify({ text }),
+      body: JSON.stringify({ text,url }),
     });
 
     const data = await res.json();
