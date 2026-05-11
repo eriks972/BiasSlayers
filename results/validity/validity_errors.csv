@@ -1,0 +1,355 @@
+text,label,true_label,predicted_label,fake_probability,real_probability,confidence,correct
+Building a wall on the U.S.-Mexico border will take literally years.,1,Real,Fake,0.98644185,0.013558118,0.98644185,False
+We know there are more Democrats in Georgia than Republicans. We know that for a fact.,0,Fake,Real,0.057131298,0.94286877,0.94286877,False
+"Says 57 percent of federal spending goes to the military and just 1 percent goes to food and agriculture, including food stamps.",0,Fake,Real,0.033406977,0.96659297,0.96659297,False
+Unfortunately we have documented instances where people defecated in the (Statehouse) building.,0,Fake,Real,0.076078005,0.92392194,0.92392194,False
+Ronald Reagan faced an even worse recession than the current one.,0,Fake,Real,0.07500475,0.92499524,0.92499524,False
+There have not been any public safety issues in cities that allow transgender people to use the bathroom of the gender they identify as.,1,Real,Fake,0.98687035,0.013129684,0.98687035,False
+"Contends that President Obama literally said (if) his cap-and-trade proposals were to pass, that utility rates, his words now, would, necessarily skyrocket.",1,Real,Fake,0.97989655,0.020103449,0.97989655,False
+Its been since 1888 that a Senate of a different party than the president in the White House confirmed a Supreme Court nominee.,0,Fake,Real,0.035542365,0.9644577,0.9644577,False
+"In Massachusetts, Scott Brown pushed for a law to force women considering abortion -- force them -- to look at color photographs of developing fetuses.",1,Real,Fake,0.95264286,0.04735716,0.95264286,False
+"The Fed created $1.2 trillion out of nothing, gave it to banks, and some of them foreign banks, so that they could stabilize their operations.",1,Real,Fake,0.98095095,0.019049037,0.98095095,False
+Says he won the second debate with Hillary Clinton in a landslide in every poll.,0,Fake,Real,0.061163675,0.93883634,0.93883634,False
+Says bag litter increased after San Francisco banned single-use shopping bags.,0,Fake,Real,0.12587547,0.8741246,0.8741246,False
+"A proposed tax to fund transportation projects would spend $90,000 to take a single vehicle off the road during the morning and afternoon commute.",0,Fake,Real,0.04774205,0.952258,0.952258,False
+Hillary Clinton said gun confiscation would be worth considering.,0,Fake,Real,0.20654899,0.7934511,0.7934511,False
+Hes the only candidate whos balanced budgets and brought jobs to Providence.,1,Real,Fake,0.8954355,0.10456449,0.8954355,False
+Sixty percent of the Hispanics support the Arizona immigration law,0,Fake,Real,0.037167206,0.96283287,0.96283287,False
+The tax cut deal is giving $700 billion to millionaires and billionaires.,0,Fake,Real,0.49738592,0.50261414,0.50261414,False
+Says Marco Rubio said Social Security and Medicare haveweakened us as a people.,1,Real,Fake,0.97407055,0.025929412,0.97407055,False
+A strong bipartisan majority in the House of Representatives voted to defund Obamacare.,0,Fake,Real,0.370219,0.62978107,0.62978107,False
+Says delegates cant legally change the Republican National Convention rules to prevent Donald Trumps nomination.,0,Fake,Real,0.08742082,0.91257924,0.91257924,False
+Rebuilding three high schools will benefit 40 percent of Portland Public School students.,0,Fake,Real,0.04753653,0.9524635,0.9524635,False
+The Texas Department of Transportation... misplaced a billion dollars.,1,Real,Fake,0.98704636,0.012953597,0.98704636,False
+"Pepper ... kicked off a jock tax, imposing a levy on the sports and entertainment industry.",1,Real,Fake,0.90784466,0.092155315,0.90784466,False
+"Under Mayor Tom Barrett, the number of Milwaukee police officers has not increased.",1,Real,Fake,0.9203318,0.07966821,0.9203318,False
+Taxpayers subsidize 80 percent of each MARTA trip,0,Fake,Real,0.079711586,0.9202884,0.9202884,False
+Says people in Africa literally walk two and three hundred miles in order to vote.,0,Fake,Real,0.065275066,0.93472487,0.93472487,False
+Half of children struck by cars near schools are hit by parents driving children to school.,0,Fake,Real,0.13738896,0.86261106,0.86261106,False
+"Citizens Property Insurance has over $500 billion worth of risk, with less than $10 billion worth of surplus.",0,Fake,Real,0.03333244,0.9666676,0.9666676,False
+Putting three Republicans in my Cabinet...is unprecedented.,1,Real,Fake,0.9354588,0.06454122,0.9354588,False
+"When Atlanta Police Chief George Turner was interim head of the department, overall crime fell 14 percent and violent crime dropped 22.7 percent.",0,Fake,Real,0.32528073,0.6747193,0.6747193,False
+"As a result of climate change, ice fishermen in Wisconsin are already noticing fewer days they can be out on our ice covered lakes.",1,Real,Fake,0.98615617,0.01384389,0.98615617,False
+"Says Donald Trump said of women, And you can tell them to go f--- themselves.",0,Fake,Real,0.30383676,0.69616324,0.69616324,False
+Iran President Hassan Rouhani has more Cabinet members with Ph.D.s from American universities than members of Barack Obamas Cabinet.,1,Real,Fake,0.5342118,0.46578825,0.5342118,False
+"The words subhuman mongrel, which Ted Nugent called President Barack Obama, were used by the Nazis to justify the genocide of the Jewish community.",1,Real,Fake,0.98879963,0.011200347,0.98879963,False
+"(Barack Obama) says hes going to reduce the long-term debt and deficit by $4 trillion, doesnt say how hes going to do it.",0,Fake,Real,0.32439634,0.6756037,0.6756037,False
+"Its entirely possible that the Democratic nominee, [Hillary Clinton], earned more money giving a single speech on Wall Street than I made the six years that I was there back in the 1980s In fact, its quite likely.",0,Fake,Real,0.13756846,0.8624316,0.8624316,False
+Delaware Democratic Senate candidate Chris Coons thought that a 911 call should be taxed.,0,Fake,Real,0.3244666,0.67553335,0.67553335,False
+"When Tim Kaine was governor, spending soared, blowing holes in the budget every year.",0,Fake,Real,0.47650898,0.523491,0.523491,False
+President Obama has the lowest public approval ratings of any president in modern times.,0,Fake,Real,0.05122331,0.94877666,0.94877666,False
+Tom Suozzi raised taxes by hundreds of millions of dollars as Nassau County executive.,1,Real,Fake,0.5730592,0.4269408,0.5730592,False
+Mitt Romney drove to Canada with the family dog Seamus strapped to the roof of the car.,1,Real,Fake,0.5028799,0.49712005,0.5028799,False
+"Says NFL Commissioner Roger Goodell interviewed domestic abuse victim Janay Rice with Ray Rice present and for every domestic violence agency, every law enforcement agency, thats a no-no.",1,Real,Fake,0.9113795,0.088620484,0.9113795,False
+I can tell you that the enhanced interrogation techniques that have since been banned by this administration specifically waterboarding work.,0,Fake,Real,0.40724853,0.59275144,0.59275144,False
+"The sex-offender registry has been around for a long time, and the research thats out there says that it has no positive impact on the public safety.",1,Real,Fake,0.90400773,0.095992215,0.90400773,False
+"Quite frankly, it was during the Bush years of spending, multiplied now by the Obama years that we have this mess.",1,Real,Fake,0.9826881,0.017311895,0.9826881,False
+Says Hillary Clinton has donated every cent shes ever earned from speaking fees to charity.,0,Fake,Real,0.058918767,0.9410812,0.9410812,False
+Social Security has nothing to do with the federal deficit.,0,Fake,Real,0.32523558,0.67476445,0.67476445,False
+Says states mandated tests come from an English company.,1,Real,Fake,0.9757937,0.0242062,0.9757937,False
+"We spend in tax loopholes annually $1.1 trillion. Thats more than we spend on our defense budget in a year, on Medicare or Medicaid in a year.",0,Fake,Real,0.032193683,0.9678063,0.9678063,False
+Sixteen million jobs were created under Ronald Reagans presidency.,1,Real,Fake,0.9879639,0.01203604,0.9879639,False
+This would be the largest casino in the United States.,0,Fake,Real,0.03576475,0.9642353,0.9642353,False
+"In rural Virginia, Sen. Warner ran 8-10 points ahead of a traditional Democrat -- ahead of Senator Kaine, ahead of Governor McAuliffe.",0,Fake,Real,0.045454845,0.9545452,0.9545452,False
+Today many Florida teachers are at risk of having their pay impacted by the performance of children who are not even in their classrooms or subject areas.,1,Real,Fake,0.8704261,0.1295739,0.8704261,False
+Mitt Romney left Massachusetts $1 billion in debt.,0,Fake,Real,0.296868,0.703132,0.703132,False
+Says Barack Obama promised he would cut the deficit in half but didnt.,1,Real,Fake,0.7357904,0.2642096,0.7357904,False
+Old City in Philadelphiaused to have more than a dozen clubs and thats what we were known for and now were down to two.,1,Real,Fake,0.7835483,0.21645167,0.7835483,False
+Says Denmarks suicide rate has been about twice as high as the United States over the past five decades.,0,Fake,Real,0.044245288,0.95575476,0.95575476,False
+The U.S. Constitution owes its notion of democracy to the Iroquois Tribes.,0,Fake,Real,0.15083827,0.84916174,0.84916174,False
+"Says Chris Koster fell silentas attorney general in pursuing a case against a free classified service accused of promoting prostitution after accepting over $12,000 in campaign contributions from people affiliated with the service.",0,Fake,Real,0.25026688,0.74973315,0.74973315,False
+"Gov. Romney himself, with 28 other Republican governors, supported policies that would have eliminated the time limits in the welfare reform law and allowed people to stay on welfare forever.",0,Fake,Real,0.056583047,0.94341695,0.94341695,False
+"Under Lt. Gov. Lee Fisher, Ohio is 44th in the country in terms of getting money actually into worker retraining.",0,Fake,Real,0.20494714,0.7950528,0.7950528,False
+"Im well aware that medical marijuana is a recognized, medical, viable treatment for this sort of [pancreas] pain condition.",0,Fake,Real,0.12618864,0.8738113,0.8738113,False
+Says Rick Perry recently said he wanted another (Texas) business tax.,0,Fake,Real,0.05488591,0.94511414,0.94511414,False
+"Right now, an employer has more of a chance of getting hit by lightning than be prosecuted for hiring an undocumented worker. That has to change.",0,Fake,Real,0.06394531,0.9360547,0.9360547,False
+Wisconsin dropped from second in the country to 41st among states where more than half the students took the ACT exam.,0,Fake,Real,0.06643718,0.9335628,0.9335628,False
+...Secret documents reveal that Iran could obtain a nuclear weapon far sooner than we were told. And Tammy Duckworth voted yes (on the Iran nuclear deal).,0,Fake,Real,0.25404355,0.7459564,0.7459564,False
+I said no to these big bank bailouts.,1,Real,Fake,0.9877038,0.012296181,0.9877038,False
+ACORN could get up to $8.5 billion more tax dollars despite being under investigation for voter registration fraud in a dozen states.,0,Fake,Real,0.048845045,0.9511549,0.9511549,False
+"Over 10 years, (extending tax cuts for the wealthy) would add less to the deficit than Obama added with the stimulus in one year.",0,Fake,Real,0.04662688,0.95337313,0.95337313,False
+Gov. Rick Scott backed the federal shutdown.,0,Fake,Real,0.3396078,0.66039217,0.66039217,False
+"Says in 2003 Texas cut $10 billion out of the entire budget, yet we put $1.8 billion more into public education. We put $800 million more into health and human services.",0,Fake,Real,0.033941887,0.9660581,0.9660581,False
+"Says, when this governor came to office, he had (an) 11 billion dollar - I call it mismanagement deficit.",1,Real,Fake,0.92596114,0.074038856,0.92596114,False
+Obama said he would unilaterally renegotiate the North American Free Trade Agreement.,1,Real,Fake,0.8630462,0.13695379,0.8630462,False
+Says If you compare the Portland Metro area to the CDCs statewide cavity rates ... the Portland Metro area would actually rank as having the 15th lowest cavity rate in the U.S.,0,Fake,Real,0.034770582,0.9652294,0.9652294,False
+"He was offered medical care for his injuries if he would give up military information in return. John McCain said, 'No.' ",0,Fake,Real,0.26575714,0.73424286,0.73424286,False
+On federal stimulus money for expanding rail service.,1,Real,Fake,0.99032366,0.009676272,0.99032366,False
+"The Clinton Foundation is a charity where President and Secretary Clinton and their daughter, they take no salary, they get no money from it, they take no personal benefit from it.",1,Real,Fake,0.9889614,0.01103856,0.9889614,False
+"Says his bill, HB 97, would prevent the use of taxpayer dollars on abortions.",0,Fake,Real,0.2611382,0.7388618,0.7388618,False
+"When he worked for ATT, he ""was responsible for large parts in a $5 billion organization.""",0,Fake,Real,0.08416833,0.9158317,0.9158317,False
+"Of the roughly 15 percent of Americans who dont have health insurance, half of them made more than $50,000 a year.",0,Fake,Real,0.036250345,0.96374965,0.96374965,False
+"The United States can immediately tap a domestic energy resource of more than 1.5 trillion barrels of oil, six times more than Saudi Arabia.",0,Fake,Real,0.032161016,0.967839,0.967839,False
+We need a Senator who shows up to work. Sherrod Brown missed over 350 official votes.,0,Fake,Real,0.049483974,0.950516,0.950516,False
+"McCain ""has opposed stem cell research.""",0,Fake,Real,0.048546392,0.9514536,0.9514536,False
+"The Keystone pipeline creates 35 permanent jobs after construction, according to a government report.",1,Real,Fake,0.9891747,0.010825335,0.9891747,False
+We're going to have more troops (in Afghanistan) . . . than the Russians had.,0,Fake,Real,0.06191547,0.93808454,0.93808454,False
+Victory! Republicans by 2 to 1 vote to endorse Mark Neumann on first ballot at GOP convention.,0,Fake,Real,0.41173977,0.5882602,0.5882602,False
+Florida is investing record amounts of funding for HIV/AIDS prevention.,0,Fake,Real,0.045879755,0.9541202,0.9541202,False
+"All four on Mount Rushmore, they were all independents at one critical point in their career.",0,Fake,Real,0.11695554,0.8830445,0.8830445,False
+I brought down crime more than anyone in this country -- maybe in the history of this country -- while I was mayor of New York City. -,0,Fake,Real,0.06363269,0.93636733,0.93636733,False
+Rhode Islands unemployment insurance system is the most expensive such system in the country.,0,Fake,Real,0.04989481,0.9501052,0.9501052,False
+"Says a YouTube video shows Thomas DiMassimo, the man who rushed Trump at an Ohio rally, dragging the American flag on the ground like it was a piece of garbage.",1,Real,Fake,0.9808725,0.019127486,0.9808725,False
+The United States is at historic record highs of individuals being apprehended on the border from countries with terrorist ties such as Pakistan or Afghanistan or Syria.,0,Fake,Real,0.036728427,0.96327156,0.96327156,False
+"Onion Creeks highest flow rate on a recent night of flooding was 120,000 cubic feet per second, which is nearly double the average flow rate of Niagara Falls.",0,Fake,Real,0.0412289,0.95877117,0.95877117,False
+Says his state budget will provide an increase in state funding for the 2011-12 school year.,1,Real,Fake,0.9880277,0.011972318,0.9880277,False
+Sayvideo shows massive alligator strolling across Florida golf course.,1,Real,Fake,0.98598653,0.014013386,0.98598653,False
+"If you look at the number of illegal immigrants coming into the country, it is net zero. Its been that way now for almost two years.",1,Real,Fake,0.9034971,0.09650292,0.9034971,False
+"From now on, we have to pay the Russians $50 million an astronaut to send Americans to the space station",1,Real,Fake,0.96591973,0.034080323,0.96591973,False
+"In 2011, Alabama and Massachusetts passed legislation allowing non-citizens who are legal residents to vote in state and local elections.",0,Fake,Real,0.043396868,0.95660317,0.95660317,False
+The Red Sox waited 87 long years to win the World Series.,0,Fake,Real,0.057638876,0.9423612,0.9423612,False
+There is a precedent for not nominating someone to the U.S. Supreme Court in the middle of a presidential election.,0,Fake,Real,0.052622303,0.9473777,0.9473777,False
+"There is no disagreement that we need action by our government, a recovery plan that will help to jump-start the economy.",0,Fake,Real,0.4181056,0.5818944,0.5818944,False
+If you want out of the individual mandate... all you have to do now is tick off the box that says hardshipand youre out.,0,Fake,Real,0.22105972,0.77894026,0.77894026,False
+"Says it probably costs more than $300,000 to run for a seat on the Pedernales Electric Cooperative board of directors.",0,Fake,Real,0.06510383,0.9348961,0.9348961,False
+Charlie Crist allowed college tuition to increase up to 15 percent every year.,1,Real,Fake,0.55211824,0.44788176,0.55211824,False
+"Tommy Thompson created the first school choice program in the nation, giving thousands of Milwaukee students the choice of where they go to school no matter where they live or how much money their parents make.",1,Real,Fake,0.64173996,0.35826004,0.64173996,False
+"McCain ""still thinks it's okay when women don't earn equal pay for equal work.""",0,Fake,Real,0.044228915,0.9557711,0.9557711,False
+"The Baucus bill ""contains provisions that would send massive federal subsidies directly to both private insurance plans and government-chartered cooperatives that pay for elective abortion.""",1,Real,Fake,0.9607247,0.039275266,0.9607247,False
+Gene Green is the NRAs favorite Democrat in Congress. ... Its no wonder the congressman has a lifetime A rating from the NRA.,0,Fake,Real,0.07565548,0.92434454,0.92434454,False
+"Obama ""won health care for 150,000 people.""",1,Real,Fake,0.9771977,0.022802336,0.9771977,False
+"The CBO says that if you raise the minimum wage to $10.10 an hour, half a million people would lose their jobs.",1,Real,Fake,0.9810907,0.018909287,0.9810907,False
+State governments have little ability to stimulate job growth in the short run.,1,Real,Fake,0.93785423,0.062145796,0.93785423,False
+He (Obama) chairs the subcommittee on Europe. ... He's held not one substantive hearing to do oversight.,1,Real,Fake,0.7365222,0.26347777,0.7365222,False
+You had supported John McCain's military strategies pretty adamantly until this race.,0,Fake,Real,0.049739785,0.95026016,0.95026016,False
+$29 is what families on SNAP (i.e. food stamps) have to live on for a week.,0,Fake,Real,0.044524997,0.955475,0.955475,False
+Rooting for the Red Sox is like rooting for the drug companies.,1,Real,Fake,0.9795402,0.020459794,0.9795402,False
+On allowing a vote on universal gun background checks in the U.S. Senate.,1,Real,Fake,0.97301346,0.026986554,0.97301346,False
+"President Barack Obama, Nancy Pelosi and Harry Reid support Rick Perrys decision to give in-state tuition to illegal immigrants.",0,Fake,Real,0.48891878,0.5110812,0.5110812,False
+Obama has more czars than the Romanovs.,1,Real,Fake,0.98920083,0.010799135,0.98920083,False
+A [bank] surveillance camera capturing a criminals face and other identifiable traits would certainly discourage robbery attempts and serve as a deterrent to robbers.,0,Fake,Real,0.1380056,0.8619944,0.8619944,False
+Says Donald Trump and Mike Pence want to gamble with your retirement benefits in the stock market.,0,Fake,Real,0.4934371,0.50656295,0.50656295,False
+I have spent virtually every weekend since Memorial Day in the Panhandle.,1,Real,Fake,0.72601306,0.27398697,0.72601306,False
+"In the 2012 election, there were more votes cast than registered voters in St. Lucie County, and Palm Beach County had 141 percent turnout.",0,Fake,Real,0.034294266,0.96570575,0.96570575,False
+The U.S. doesnt make television sets anymore.,1,Real,Fake,0.9525839,0.04741613,0.9525839,False
+Wisconsins projected state budget shortfall is now as low as $1.5 billion,0,Fake,Real,0.11682614,0.8831739,0.8831739,False
+Heroin .. pours across our southern borders.,1,Real,Fake,0.988533,0.01146703,0.988533,False
+"A lot of the ideas in terms of the (health insurance) exchange, just being able to pool and improve the purchasing power of individuals in the insurance market, that originated from the Heritage Foundation.",1,Real,Fake,0.9542876,0.045712393,0.9542876,False
+Says Mitt Romney supports cap and trade.,0,Fake,Real,0.09499231,0.9050077,0.9050077,False
+"Since the beginning of the year weve created a net increase of 45,000 jobs.",0,Fake,Real,0.035398748,0.9646013,0.9646013,False
+My supporters arent special interest groups in Madison and Milwaukee.,1,Real,Fake,0.9908098,0.009190203,0.9908098,False
+The average age of the minimum wage worker is 35 years old.,0,Fake,Real,0.06790721,0.93209285,0.93209285,False
+Says One of the states largest governments made charging this tax one of their top priorities just this year.,0,Fake,Real,0.050815538,0.94918454,0.94918454,False
+"In Syria, we struck a deal where we got 100 percent of the chemical weapons out.",1,Real,Fake,0.7027885,0.2972116,0.7027885,False
+"We had a three-hour debate, no discussion about the national debt, very little about the economy.",1,Real,Fake,0.9809054,0.019094622,0.9809054,False
+Obama-Nelson economic record: Job creation ... at slowest post-recession rate since Great Depression.,1,Real,Fake,0.967304,0.032696057,0.967304,False
+"Says DonaldTrump got, you know, $1.8 billion worth of free media. I got, like, none.",1,Real,Fake,0.86570585,0.13429421,0.86570585,False
+"When I withdrew in June of 2008, polls were showing that at least 40 percent of my supporters said, oh, they werent going to support Sen. Obama.",1,Real,Fake,0.72850925,0.27149066,0.72850925,False
+Six thousand people have sought addiction treatment through expanded Medicaid.,0,Fake,Real,0.04379865,0.9562013,0.9562013,False
+"When students leave our high schools and they go to the community college, 70-75 percent of them have to pay to take remedial math.",1,Real,Fake,0.61635256,0.38364747,0.61635256,False
+"Of those 850,000 (new Texas) jobs, most were public-sector jobs and minimum-wage jobs.",0,Fake,Real,0.035151687,0.9648483,0.9648483,False
+It is a fact that it costs more to run the schools in August.,0,Fake,Real,0.07715642,0.92284364,0.92284364,False
+The problem with raising tax rates on the wealthiest Americans is that more than half of them are small business owners.,0,Fake,Real,0.22700782,0.77299213,0.77299213,False
+About 78 to 81 House Democrats are members of the Communist Party. ... Its called the Congressional Progressive Caucus.,0,Fake,Real,0.050652992,0.949347,0.949347,False
+"First, he was in favor of my plan, now he's attacking it.",1,Real,Fake,0.98067594,0.019324057,0.98067594,False
+Fox News is banned in Canada because it violatesa law thatprevents news channels from lying to their viewers.,0,Fake,Real,0.05499814,0.9450019,0.9450019,False
+Hedge fund managers pay less in taxes than nurses and truck drivers.,0,Fake,Real,0.05200971,0.9479903,0.9479903,False
+Says President Barack Obamas approval rating gained 3 points in the last couple months.,1,Real,Fake,0.95324516,0.04675484,0.95324516,False
+Wisconsin law says all recall petition signers must sign in the presence of another person.,0,Fake,Real,0.06327426,0.9367258,0.9367258,False
+"In just a few years in office, Sen. Obama has accumulated the most liberal voting record in the Senate.",0,Fake,Real,0.22435732,0.7756427,0.7756427,False
+Jules Bailey was instrumental in creating the Business Energy Tax Credit that let companies like Wal-Mart profit by $11 million while costing the Oregon general fund $33 million.,0,Fake,Real,0.28309458,0.7169054,0.7169054,False
+"The big Wall Street banks, the big corporations give many times more political donations to Democrats than Republicans.",0,Fake,Real,0.03593416,0.96406585,0.96406585,False
+David Perdue has never voted in a Republican primary until his name was on the ballot.,0,Fake,Real,0.06569854,0.9343015,0.9343015,False
+Says in Texas its legal to shoot someone whos committing a public nuisance under the cover of dark.,0,Fake,Real,0.063227616,0.93677235,0.93677235,False
+"A small business receiving a federal tax credit ""to provide health care for its employees ... would be barred under the Stupak Amendment from allowing their employees to use ... the health care that they offer them for abortion.""",0,Fake,Real,0.05393792,0.94606215,0.94606215,False
+Individuals and small businesses will be hit by increases in health insurance premiums as high as 39 percent.,1,Real,Fake,0.6112454,0.38875464,0.6112454,False
+Says Barack Obamas comments indicate he believes in redistribution of wealth.,1,Real,Fake,0.95318073,0.04681929,0.95318073,False
+Says Oregon state employees received a catch-up pay raise in 1981 -- just two years after they agreed not to take a raise in exchange for a retirement benefit.,0,Fake,Real,0.08587045,0.9141296,0.9141296,False
+Says a study shows that children who live with a biological parent and the parents boyfriend or girlfriend have a 20 times greater chance of being sexually abused.,1,Real,Fake,0.80591244,0.19408752,0.80591244,False
+"Its not true that since hes been the president, executions in Iran have increased by four times.",0,Fake,Real,0.18099444,0.81900555,0.81900555,False
+Over half the people on disability are either anxious or their back hurts.,0,Fake,Real,0.14919554,0.8508045,0.8508045,False
+"Today California is kicking our butt, creating more jobs and more economic growth than Texas.",1,Real,Fake,0.97318,0.026819987,0.97318,False
+Says Gov. Mike Pence and Rep. Mike Coffman take the same positions on a number of things... Coffman and Pence oppose equal rights for LGBT Americans.,0,Fake,Real,0.05422521,0.9457748,0.9457748,False
+"All of Floridas four-year state colleges now offer bachelors degrees for only $10,000.",0,Fake,Real,0.09768905,0.90231097,0.90231097,False
+"In the U.S. Constitution, theres a little section in there that talks about life, liberty and the pursuit of happiness.",0,Fake,Real,0.37065437,0.6293456,0.6293456,False
+Both the Democratic and Republican candidates for president in 2016 are quite unpopular.,1,Real,Fake,0.8718833,0.12811671,0.8718833,False
+He was a member of the Iraq Study Group and was either fired or quit from a very important commission that was trying to figure out the way forward in Iraq.,1,Real,Fake,0.7905489,0.20945103,0.7905489,False
+We now work the longest hours of any people around the world.,0,Fake,Real,0.103221126,0.8967789,0.8967789,False
+"We haven't built a refinery, I think, in 30 years.",0,Fake,Real,0.038589183,0.96141076,0.96141076,False
+Sixteen [federal] programs exist to fight homelessness and some of them are duplicative.,1,Real,Fake,0.9811808,0.018819213,0.9811808,False
+Republicans offered Wisconsin bar patrons free shots (of alcohol) to sign recall petitions against Democrats.,0,Fake,Real,0.25247884,0.74752116,0.74752116,False
+Says Donald Trumpsfoundation took money other people gave to his charity and then bought a six-foot-tall painting of himself.,1,Real,Fake,0.81696707,0.18303293,0.81696707,False
+Says state Senate candidate Monk Elmer voted to exceed the (school district property tax) spending caps.,0,Fake,Real,0.05198565,0.9480143,0.9480143,False
+Senator Obama has voted 94 times to either increase your taxes or against tax cuts.,0,Fake,Real,0.0819735,0.91802657,0.91802657,False
+Lorain is the poorest urban school district in the state of Ohio.,0,Fake,Real,0.03921645,0.96078354,0.96078354,False
+Says President Barack Obama said that American exceptionalism is no more exceptional than the exceptionalism of any other country.,0,Fake,Real,0.44578698,0.554213,0.554213,False
+I saved the taxpayers $2-billion on a bogus Air Force Boeing tanker deal where people went to jail.,1,Real,Fake,0.8574503,0.14254971,0.8574503,False
+The U.S. Supreme Court struck down Wisconsins photo ID election law,0,Fake,Real,0.059419297,0.9405807,0.9405807,False
+We know how to stop AIDS: persuade men not to have sex with men.,0,Fake,Real,0.31094673,0.68905324,0.68905324,False
+And weve constantly been the lowest unemployed county in the state.,0,Fake,Real,0.04925707,0.9507429,0.9507429,False
+"Once a woman enters into the sex trade, her average life expectancy is seven years.",0,Fake,Real,0.054674175,0.94532585,0.94532585,False
+"Says kids who start in the ninth grade in the city of Newark this past September, 23 percent of them will graduate in four years.",0,Fake,Real,0.046723004,0.953277,0.953277,False
+I committed to public financing; (Obama) committed to public financing.,1,Real,Fake,0.9202034,0.07979659,0.9202034,False
+All private healthcare plans must conform to government rules to participate in a Healthcare Exchange.,1,Real,Fake,0.9823868,0.0176132,0.9823868,False
+"Atlanta Mayor Kasim Reed became a city resident in the last annexation, opening the door to his candidacy.",1,Real,Fake,0.988361,0.011639015,0.988361,False
+Every (U.S. Supreme Court) nominee since 1875 has received a nomination hearing.,0,Fake,Real,0.03628566,0.9637143,0.9637143,False
+Ive done more impeachments than anybody else in the history of the country.,1,Real,Fake,0.9063402,0.09365987,0.9063402,False
+"Says Marco Rubio believes the earth is 9,000 years old and that humans hunted dinosaurs to extinction; says Rand Paul believes the earth is 10,000 years old and God removed dinosaurs to make space for humans.",0,Fake,Real,0.2663544,0.7336456,0.7336456,False
+Women have come through the recession worse off than men the numbers bear that out. We went from a 7 percent unemployment rate for women when he (President Barack Obama) was elected to an 8.1 percent now.,1,Real,Fake,0.98378193,0.016218042,0.98378193,False
+"In countries where there are higher, more strict gun laws, there is more gun violence.",0,Fake,Real,0.05145585,0.9485442,0.9485442,False
+Says he never wanted to raise the debt ceiling.,0,Fake,Real,0.3310856,0.6689144,0.6689144,False
+"Thanks to (North Carolinas) governor and the legislature, the average teachersalary can barely support a family.",0,Fake,Real,0.069284625,0.9307153,0.9307153,False
+It has been over 80 years since a lame-duck president appointed a Supreme Court justice.,0,Fake,Real,0.06506463,0.93493533,0.93493533,False
+"While (Charlie Crist) was governor, utility costs went up 30 percent and went from below the national average to above the national average. Since I got elected, utility rates have come down 11 percent and now we are below the average.",0,Fake,Real,0.04716268,0.9528373,0.9528373,False
+"In a lawsuit between private citizens, a Florida judge announced the decision was going to be based on Islamic Law.",1,Real,Fake,0.94106656,0.05893343,0.94106656,False
+"The Germans, the French, countries that opposed us in the (Iraq) war, all believed (Saddam Hussein) had weapons of mass destruction.",0,Fake,Real,0.05126418,0.9487358,0.9487358,False
+Agriculture has always required a significant workforce from abroad.,0,Fake,Real,0.078913026,0.92108697,0.92108697,False
+Says HJM 20 was the only bill not assigned to a House committee.,0,Fake,Real,0.102034345,0.8979656,0.8979656,False
+"Says if you try to hide marijuana in a hemp field, it becomes worthless. The THC goes away.",1,Real,Fake,0.9518499,0.0481501,0.9518499,False
+Says the state is required pick up 70 percent of the cost of K-12 education.,0,Fake,Real,0.2716967,0.7283033,0.7283033,False
+The minimum wage has risen $2.35 in the last two years. Thats 31 percent.,0,Fake,Real,0.052528612,0.9474713,0.9474713,False
+"Everywhere that we have more citizens carrying guns, crime is less. Theres a study showing that where states have open carry or concealed carry, but particularly open carry, the crime is down 25 percent.",0,Fake,Real,0.38723168,0.6127683,0.6127683,False
+The music industry is the biggest export from Africa after oil and gas.,0,Fake,Real,0.042684034,0.95731604,0.95731604,False
+On the Troubled Asset Relief Program (TARP),1,Real,Fake,0.98553187,0.014468127,0.98553187,False
+"Unfortunately, since Mr. Fosters been mayor ... there are less people employed in the city of St. Petersburg than there were prior to his taking office.",0,Fake,Real,0.07835971,0.92164034,0.92164034,False
+Congressman Joe Heck has (voted) 62% of the time with Nancy Pelosi and the Democrats on a variety of important issues.,0,Fake,Real,0.1686671,0.8313329,0.8313329,False
+"Chile ranks third internationally in economic freedom, while the U.S. ranks 17th.",0,Fake,Real,0.03238612,0.96761394,0.96761394,False
+Bill McCollum said tax cuts don't work.,0,Fake,Real,0.2677738,0.73222625,0.73222625,False
+The tax burden on Virginia families was lower under Tim Kaine than under George Allen.,0,Fake,Real,0.07339147,0.9266085,0.9266085,False
+SaysMaggie Hassan was out of state on 30 days over the last three months.,1,Real,Fake,0.98831546,0.011684559,0.98831546,False
+Miami-Dade County is the No. 1 donor county in the state.,0,Fake,Real,0.040659666,0.95934033,0.95934033,False
+"We havent had a Republican senator in Washington for ... why, I think Clifford Case was our last Republican senator.",1,Real,Fake,0.64914024,0.35085982,0.64914024,False
+We havent yet taken out a negative ad.,0,Fake,Real,0.115518704,0.8844813,0.8844813,False
+"Here in Florida, Ive slashed government by 10 percent. That's $7 billion.",0,Fake,Real,0.057944387,0.94205564,0.94205564,False
+"Over the past year ... our 16 counties have hemorrhaged more than 6,000 jobs with no apparent end in sight.",0,Fake,Real,0.03445285,0.96554714,0.96554714,False
+"Even with recent changes, the average hourly wage at General Motors is still $75 an hour.",0,Fake,Real,0.056933217,0.9430668,0.9430668,False
+U.S. House opponent Paul Ryan supports cutting funding for veterans by 24 percent.,0,Fake,Real,0.10898511,0.8910148,0.8910148,False
+The Milwaukee business community did not speak about the facts -- and in support of train manufacturer Talgo -- as the Milwaukee-Madison rail link was being killed.,1,Real,Fake,0.98211354,0.017886393,0.98211354,False
+"Congress includes 36 people accused of spousal abuse, 84 arrested for drunk driving in the past year, 71 with terrible creditand more.",0,Fake,Real,0.03470121,0.96529883,0.96529883,False
+Says the initial Portland plastic bag ban represented only a modest share of total single-use checkout bag use.,0,Fake,Real,0.035581775,0.96441823,0.96441823,False
+There's no evidence anywhere that offshore drilling has hurt tourism in any area where it has been allowed.,0,Fake,Real,0.12457076,0.8754292,0.8754292,False
+"Under the new health care law, if a landscaper wants to buy a new lawnmower, or a restaurant needs a new ice-maker, they have to report that to the feds.",1,Real,Fake,0.98270434,0.017295696,0.98270434,False
+Says Charlie Crist implemented Jeb Bushs A+ Plan.,1,Real,Fake,0.83876276,0.16123728,0.83876276,False
+Not one dime gets added to the deficit because of Social Security.,0,Fake,Real,0.1550903,0.84490967,0.84490967,False
+Canada sets aside 36 percent of their visas for people with skills they think their country needs. We set aside 6 percent.,0,Fake,Real,0.032062948,0.96793705,0.96793705,False
+"A president must ""obtain Congress' consent before formally accepting the Nobel Prize.""",0,Fake,Real,0.043393746,0.9566062,0.9566062,False
+"When people enter the service, theres not a mental health evaluation.",1,Real,Fake,0.9167243,0.083275706,0.9167243,False
+Theres more murders with hammers last year than...shotguns and pistols and AK-47s.,0,Fake,Real,0.038292415,0.9617076,0.9617076,False
+Uses headlines to portray Gov. Rick Perry as beholden to special interests.,1,Real,Fake,0.9819531,0.018046912,0.9819531,False
+"Ms. Kagan has spent her entire professional career in Harvard Square, Hyde Park and the D.C. Beltway.",1,Real,Fake,0.9872924,0.012707545,0.9872924,False
+"Because of voter fraud, Republican candidates need to do a point or two better to win statewide elections in Wisconsin.",0,Fake,Real,0.14343119,0.8565688,0.8565688,False
+Nine million people have lower-cost HIV/AIDS medicine because of the work of the Clinton Foundation and my husband.,1,Real,Fake,0.9849582,0.015041817,0.9849582,False
+"Chris Christie helped funnel $6 million in federal Hurricane Sandy money to a senior center in Belleville, N.J., a place that suffered no damage.",1,Real,Fake,0.9091511,0.09084889,0.9091511,False
+Says that 9 million to 50 million undocumented immigrants live in the United States.,0,Fake,Real,0.09242076,0.90757924,0.90757924,False
+Ohioans want an end to pay-to-play politics.,0,Fake,Real,0.32352126,0.67647874,0.67647874,False
+General Motors is the largest corporation in the world again.,0,Fake,Real,0.047573373,0.9524266,0.9524266,False
+A referendum gives the people the chance to decide on cutting the Milwaukee County Board budget by two-thirds,0,Fake,Real,0.043855805,0.9561442,0.9561442,False
+Says Bruce Starr broke the law by letting lobbyists wine and dine him in Maui.,0,Fake,Real,0.38292238,0.61707765,0.61707765,False
+Says Barack Obama is the first president in modern history not to have a single year of 3 percent growth.,1,Real,Fake,0.9747859,0.025214095,0.9747859,False
+Half of all hospitalized seniors are suffering from malnutrition so severe that it either caused their illness or it prevents them from getting better.,0,Fake,Real,0.07292322,0.9270768,0.9270768,False
+"Under conservative leadership, Congress has reduced the federal deficit by 60 percent nearly $800 billion.",0,Fake,Real,0.05394156,0.9460585,0.9460585,False
+"What I look at every month is how many more New Jerseyans are back to work. You have another 9,900 last month that are back to work and over almost 90,000 that are back to work now since I became governor.",0,Fake,Real,0.037470087,0.9625299,0.9625299,False
+"Texas high school graduation rate went from 27th in the country in 2002, to second highest in the country in 2013.",0,Fake,Real,0.037873376,0.9621266,0.9621266,False
+"I'll tell you what I can tell this country: If they want a president who doesn't believe in God, there's probably plenty of choices.",0,Fake,Real,0.1420531,0.8579469,0.8579469,False
+Drinking champagne could help prevent Alzheimers and other forms of dementia.,0,Fake,Real,0.23364472,0.76635534,0.76635534,False
+Ford is moving all of their small-car production to Mexico.,1,Real,Fake,0.9870936,0.012906354,0.9870936,False
+"For every dollar (in the stimulus package) that is spent to help small businesses, $4 is being spent to help upkeep the grass on the lawns of Washington.",0,Fake,Real,0.039216258,0.9607838,0.9607838,False
+"If sea levels rise six feet due to climate change, Waterplace Park in Providence and Wickford village would be swamped",1,Real,Fake,0.98808527,0.011914719,0.98808527,False
+"Chinese tire imports threatened 1,000 American jobs, so President Obama stood up to China and protected American workers. Mitt Romney attacked Obamas decision.",1,Real,Fake,0.95431465,0.045685403,0.95431465,False
+Says that his transportation budget and Ohio Turnpike plan would make sure we have lower tolls than weve had through the history of the turnpike.,0,Fake,Real,0.2520855,0.74791455,0.74791455,False
+The war spending bill actually spends more money on the International Monetary Fund than on the war.,0,Fake,Real,0.039132535,0.9608674,0.9608674,False
+Says Paul Ryans budget relies on the same $700 billion in savings from Medicare that Mitt Romney and other Republicans have been attacking Democrats about.,1,Real,Fake,0.6607639,0.33923608,0.6607639,False
+"In February, John McCain suggested the Bergdahl-Taliban swap that he now calls outrageous and dangerous.",1,Real,Fake,0.8098328,0.19016717,0.8098328,False
+Robert Hurt supported a bill that helped the uranium industry after taking contributions from the industry and because his father had a stake in it.,0,Fake,Real,0.084705144,0.9152949,0.9152949,False
+I never favored cap and trade.,0,Fake,Real,0.08083862,0.9191614,0.9191614,False
+"The runnerup to Caitlyn Jenner for ESPNs Arthur Ashe Courage Award was Army veteran Noah Galloway, who lost an arm and leg to a roadside bomb in Iraq.",0,Fake,Real,0.22824416,0.7717559,0.7717559,False
+Caution: Kissing and cuddling chickens can be hazardous to your health.,1,Real,Fake,0.9643173,0.035682686,0.9643173,False
+"The Obama administration is using as its legal justification for these airstrikes (on the Islamic State), an authorization for military force that the president himself has called for repeal of.",1,Real,Fake,0.95201015,0.047989845,0.95201015,False
+Says the federal government hosted a conference and ordered 250 muffins at 16 bucks a piece.,0,Fake,Real,0.24055451,0.7594454,0.7594454,False
+Measures taken by my administration have saved taxpayers $1 billion.,1,Real,Fake,0.60743475,0.39256522,0.60743475,False
+"Says his proposed payroll tax cut will mean an extra $1,500 in your pocket compared to if we do nothing.",1,Real,Fake,0.9549158,0.045084126,0.9549158,False
+Says his views on reparations for slavery are the same as Barack Obamas and Hillary Clintons.,1,Real,Fake,0.9885485,0.0114515275,0.9885485,False
+"Says by rejecting an expansion of Medicaid under the new law, Georgia was depriving 25,000 veterans of health care coverage.",1,Real,Fake,0.8765521,0.12344791,0.8765521,False
+Peter Kilmartin voted for the 38 Studios loan guarantee and his State House job was to twist [legislators] arms to vote for deals like this.,0,Fake,Real,0.23128067,0.7687193,0.7687193,False
+The amount of money that we put into running our own state legislature is nearly as much as we put into the University of Rhode Island.,0,Fake,Real,0.045290064,0.9547099,0.9547099,False
+Beaverton enjoys the most diverse population (by percentage of population) among Oregon cities.,0,Fake,Real,0.034373876,0.96562606,0.96562606,False
+"Says after leaving the White House, Hillary Clinton was forced to return an estimated $200,000 in White House china, furniture and artwork that she had stolen.",0,Fake,Real,0.22243872,0.7775613,0.7775613,False
+Georgia is the Saudi Arabia of pine trees.,0,Fake,Real,0.08257354,0.91742647,0.91742647,False
+I turned a $110 million deficit into a $1.6 million surplus for our city.,0,Fake,Real,0.054207932,0.945792,0.945792,False
+"Says Bill Pascrell voted to eliminate all estate taxes for billionaires, and I voted no.",0,Fake,Real,0.44332796,0.55667204,0.55667204,False
+Says the NAACPs Ohio chapter has endorsed Issue 2.,0,Fake,Real,0.15043457,0.8495654,0.8495654,False
+John McCain has changed position on invading Iraq.,0,Fake,Real,0.1602164,0.83978355,0.83978355,False
+"The Democrat majority in the Senate has failed to submit [a] budget in the past 1,000 days.",0,Fake,Real,0.035720333,0.96427965,0.96427965,False
+Says Texas Republican leaders have proposed laying off thousands of teachers.,0,Fake,Real,0.3557856,0.6442144,0.6442144,False
+Property tax exemptions can be granted to small businesses that move into Milwaukee County.,0,Fake,Real,0.050596993,0.94940305,0.94940305,False
+Wisconsins new state budget includes a 15 percent increase for road construction and yet weve got local towns tearing up paved roads and replacing them with gravel.,0,Fake,Real,0.45046428,0.54953575,0.54953575,False
+The Obama administration is refusing to directly arm the Kurds.,1,Real,Fake,0.9870352,0.012964739,0.9870352,False
+"Rick Perry attempted to fast-track unnecessary coal-fired power plants, which degrade air quality and would cost billions. Fortunately, a court stopped him.",1,Real,Fake,0.9059153,0.09408474,0.9059153,False
+"In many instances, (peoples) health care costs are more than their mortgage costs or their rent, which, by the way, is a first in American history.",0,Fake,Real,0.03519525,0.96480477,0.96480477,False
+"Says Vince Polistina is collecting nearly $70,000 in taxpayer-funded salaries -- plus a government pension.",0,Fake,Real,0.4674495,0.5325505,0.5325505,False
+Says Houstons 18th congressional district has been gentrified and is home to more Anglos than African Americans.,0,Fake,Real,0.041936517,0.9580634,0.9580634,False
+"The Hyde Amendmentlanguage was in the (human trafficking) bill. The Democratic sponsor admits it was in the bill, and she voted for it.",1,Real,Fake,0.52053213,0.47946787,0.52053213,False
+"Stimulus tax cuts ""began showing up in paychecks of 4.8 million Indiana households about three months ago.""",0,Fake,Real,0.038933024,0.961067,0.961067,False
+Were second only to Boston in college students per capita.,0,Fake,Real,0.13934156,0.86065847,0.86065847,False
+Mike Martinez has voted to raise taxes and utility rates while ending free bus service for seniors.,1,Real,Fake,0.9431444,0.056855682,0.9431444,False
+White men account for 69 percent of those arrested for violent crimes.,0,Fake,Real,0.03901349,0.9609865,0.9609865,False
+"98 percent of small businesses make less than $250,000 and would not see a tax increase under Barack Obama's plan.",1,Real,Fake,0.88557386,0.11442613,0.88557386,False
+''The leading Democratic candidate once said that the unfettered free market is the most destructive force in modern America.'',0,Fake,Real,0.056639846,0.9433601,0.9433601,False
+"We have trade agreements with 20 countries, and we have trade surpluses with each one of those 20.",0,Fake,Real,0.033442896,0.9665571,0.9665571,False
+Congress' approval rating is 11 percent. You know who's higher? Dick Cheney and HMOs.,0,Fake,Real,0.18359217,0.81640786,0.81640786,False
+Oil companies ...currently have 68-million acres that they're not using.,0,Fake,Real,0.04096105,0.9590389,0.9590389,False
+John Raeses wife is registered to vote in Florida so she cant even vote for him.,1,Real,Fake,0.96723706,0.032762952,0.96723706,False
+"Mitt Romney made over a hundred million dollars by shutting down (a Marion, Ind. paper) plant.",0,Fake,Real,0.0693388,0.9306612,0.9306612,False
+Says Thomas Jefferson said that government is best which governs least.,0,Fake,Real,0.27124342,0.7287566,0.7287566,False
+"In the 2000 Florida election, at least 1,100 eligible voters were wrongly dropped from voting rolls in an attempt to purge a list of felons. Many of those who were dropped showed up to vote and were told they could not.",1,Real,Fake,0.6019088,0.3980912,0.6019088,False
+"McCain ""hasn't held executive responsibility.""",0,Fake,Real,0.3420985,0.6579015,0.6579015,False
+"John McCain intervened, which helped Airbus get that Pentagon contract.",0,Fake,Real,0.0740604,0.92593956,0.92593956,False
+I wake up every morning in a house (the White House) that was built by slaves.,1,Real,Fake,0.7558018,0.24419816,0.7558018,False
+The governor has made a commitment to billions of dollars in debt and new spending without any explanation of how he plans to pay that money back.,0,Fake,Real,0.26262882,0.73737115,0.73737115,False
+Michele Bachmanns legislative record is offering failed amendments.,1,Real,Fake,0.9824823,0.017517697,0.9824823,False
+"Says that when San Francisco banned plastic grocery bags, you saw the number of instances of people going to the ER with things like salmonella and other related illnesses spike.",0,Fake,Real,0.1411852,0.85881484,0.85881484,False
+There is no clinical evidence that vaccinating healthcare workers protects patients.,0,Fake,Real,0.1771931,0.82280695,0.82280695,False
+I made a bunch of these promises during the campaign. ... Weve got about 60 percent done in three years.,0,Fake,Real,0.045215365,0.95478463,0.95478463,False
+"On the day of the New Hampshire primary in 1980, the top 13 people of Ronald Reagans staff quit.",1,Real,Fake,0.86085904,0.13914104,0.86085904,False
+Some of the wealthiest Americans are African-American now.,0,Fake,Real,0.04156399,0.9584361,0.9584361,False
+Theres 400 more people working in health care today in New Hampshire than when we passed the budget.,0,Fake,Real,0.048462182,0.9515378,0.9515378,False
+"In Ohio, each year an estimated 1,000 children become victims of human trafficking, and over 3,000 more are at risk.",0,Fake,Real,0.044568673,0.95543134,0.95543134,False
+"Says, Yet in Salem they have traditionally waited until the money is almost gone to pay for the most important things in our states budget.",0,Fake,Real,0.062929735,0.93707025,0.93707025,False
+"18 percent of our land in our state right now is either federally, state or county owned for conservation purposes.",1,Real,Fake,0.79071486,0.20928514,0.79071486,False
+"The race will tighten, just because that's what happens at the end of campaigns. They always have.",1,Real,Fake,0.8932152,0.10678479,0.8932152,False
+"Even after Obamacare is fully implemented, there still will be tens of millions of people not covered.",1,Real,Fake,0.8391434,0.16085659,0.8391434,False
+"We have 80,000 abortions in Texas every year.",1,Real,Fake,0.97338766,0.026612382,0.97338766,False
+Four members of the Rhode Island General Assembly went to vote in 2010 and were told they had already voted.,0,Fake,Real,0.15371369,0.8462863,0.8462863,False
+North Koreas missiles are not going to have a capability to reach the United States anytime real soon.,1,Real,Fake,0.96404237,0.035957593,0.96404237,False
+Says Measure 3-386 will cost a fortune for elections while Measure 3-388 will cost less.,0,Fake,Real,0.4568457,0.54315424,0.54315424,False
+"The president promised to close the space gap, but he now seems intent on repeating the events that created the space gap in the first place -- putting in place a new rocket design and then trying to underfund the effort...",1,Real,Fake,0.9778946,0.022105327,0.9778946,False
+Republicans dont think its a good idea to make the child care tax credit stronger.,0,Fake,Real,0.2618946,0.7381054,0.7381054,False
+This is the first time in the history that weve had the raising of a debt limit also with spending cuts.,0,Fake,Real,0.040501706,0.95949835,0.95949835,False
+Kelly Ayotte voted for a budget that had $90 billion of cuts to Pell Grants.,0,Fake,Real,0.04109819,0.95890176,0.95890176,False
+Says U.S. Rep. Connie Mack IV passed only one bill in seven years.,1,Real,Fake,0.96289515,0.037104826,0.96289515,False
+"About two-thirds of Medicaid beneficiaries are children, but they account for one-third of the programs cost, while one-third are elderly, and they account for two-thirds of the cost.",0,Fake,Real,0.032202367,0.9677977,0.9677977,False
+Our campaign depends on small donations for the majority of our support.,0,Fake,Real,0.044139314,0.95586073,0.95586073,False
+"Says Crist campaign website ""has eliminated all references to our Republican Party.""",0,Fake,Real,0.26911432,0.73088574,0.73088574,False
+The American Conservative Union gives [Rep. Tim] Ryan a dismal 0.0 percent rating for the billions he has contributed to our national debt.,0,Fake,Real,0.13770138,0.8622986,0.8622986,False
+"The departments of Commerce, Education and Energy and the EPA saw their spending increase by between 130 percent and 219 percent between 2008 and 2010.",0,Fake,Real,0.044198856,0.9558012,0.9558012,False
+Says the director of an anti-abortion group receiving a Texas grant to provide womens health services believes HIV can be spread through the sewer system.,1,Real,Fake,0.9716637,0.028336294,0.9716637,False
+Democrats are cutting our school funding. Four times in the last 10 years before we came into office.,0,Fake,Real,0.06388328,0.9361167,0.9361167,False
+One man sacrificed for his country. One man opposed a flawed strategy in Iraq. One man had the courage to call for change. One man didn't play politics with the truth. One man stands up to the special interests.,1,Real,Fake,0.9257626,0.0742374,0.9257626,False
+"More than 1,000 American soldiers have lost their lives in Afghanistan in the last 27 months. This is more than the combined total of the nine years before.",0,Fake,Real,0.033122312,0.96687776,0.96687776,False
+"Harambe received 15,000 votes in the presidential election.",0,Fake,Real,0.22287956,0.7771205,0.7771205,False
+Says Thom Tillis gives tax breaks to yacht and jet owners.,0,Fake,Real,0.21407568,0.7859243,0.7859243,False
+"During his time as House speaker, unemployment came down from 5.6 percent to under 4 (percent).",0,Fake,Real,0.051290005,0.94871,0.94871,False
+Says Patrick Murphy switched his vote on All Aboard Florida ... because his father tried to get in a bid to build it and was unsuccessful.,0,Fake,Real,0.09752864,0.9024713,0.9024713,False
+Says U.S. Sen Sherrod Brown promised that the first stimulus bill would fund the Brent Spence Bridge.,0,Fake,Real,0.2597317,0.7402683,0.7402683,False
+"Tampa got more (federal housing) money because they scored higher on the blight scoring system, so theyve got a much bigger problem than we do.",0,Fake,Real,0.03462622,0.9653738,0.9653738,False
+"The Manchin-Toomey amendment would have criminalized certain private transfers of firearms between honest citizens, requiring lifelong friends, neighbors and some family members to get government approval.",0,Fake,Real,0.40647334,0.59352666,0.59352666,False
+"The reason we even have colleges is that at some point there were politicians who said, You know what? We should start colleges.",0,Fake,Real,0.23027997,0.7697201,0.7697201,False
+U.S. Rep. Paul Broun has not authored any legislation that has been adopted by Congress.,1,Real,Fake,0.87426114,0.12573892,0.87426114,False
+Eighty percent of Wall Street executives and their spouses donations go to Democrats.,0,Fake,Real,0.035678107,0.96432185,0.96432185,False
+"Like me, Scott Walker opposed the 1998 transportation bill and the $9 billion of wasteful spending.",0,Fake,Real,0.06932512,0.93067485,0.93067485,False
+At least a quarter of those apprehended at the border have criminal records.,0,Fake,Real,0.039409343,0.9605907,0.9605907,False
+"When it comes to jobless workers, Mitt Romney says he likes to fire people.",0,Fake,Real,0.06374058,0.9362594,0.9362594,False
+"If you look at the application for a security clearance, I have a clearance that even the president of the United States cannot obtain because of my background.",0,Fake,Real,0.06312562,0.93687433,0.93687433,False
+Says the cascading effects of climate change contributed to the rise of ISIS.,1,Real,Fake,0.9890681,0.010931861,0.9890681,False
+"In 2004, ""20 percent of U.S. households were getting about 75 percent of their income from the federal government. ... Another 20 percent were receiving almost 40 percent.""",0,Fake,Real,0.032690663,0.9673093,0.9673093,False
+"In Europe, church attendance rates (are) in the single digits because churches are supported by taxes.",0,Fake,Real,0.039093964,0.960906,0.960906,False
+Says George LeMieux even compared Marco Rubio to Barack Obama.,0,Fake,Real,0.42865017,0.5713498,0.5713498,False
+Says Barack Obama promised to halve the deficit in his first term.,1,Real,Fake,0.6439494,0.3560506,0.6439494,False
+Says the government has gotten the TARP money back plus a profit.,0,Fake,Real,0.058675077,0.94132495,0.94132495,False
+Points of Light is the worlds largest volunteer organization.,0,Fake,Real,0.0519303,0.9480697,0.9480697,False
+Says Tim Kaine actually tried to raise taxes by about $4 billion.,1,Real,Fake,0.9183919,0.08160809,0.9183919,False
+Female buffalo lead the herd.,1,Real,Fake,0.8640387,0.13596134,0.8640387,False
+There is no system to vet refugees from the Middle East.,0,Fake,Real,0.17608513,0.8239149,0.8239149,False
+I think its seven or eight of the California system of universities dont even teach an American history course. Its not even available to be taught.,0,Fake,Real,0.41542217,0.5845778,0.5845778,False
+"In the early 1980s, Sen. Edward Kennedy secretly offered to help Soviet leaders counter the Reagan administrations position on nuclear disarmament.",0,Fake,Real,0.40291098,0.59708905,0.59708905,False
+Says the governor is going around the state talking about [how] we should fund an income tax cut that benefits higher income earners and not lower income earners,0,Fake,Real,0.2708321,0.72916794,0.72916794,False

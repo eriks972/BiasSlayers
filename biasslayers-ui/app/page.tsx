@@ -12,12 +12,19 @@ export default function Home() {
   const analyze = async () => {
     setLoading(true);
     try {
+<<<<<<< HEAD
       const res = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/predict_all`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({ text,url }),
+=======
+      const res = await fetch("http://localhost:5001/predict_all", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ text, url})
+>>>>>>> 4c69721 (Final Commit)
     });
 
     const data = await res.json();

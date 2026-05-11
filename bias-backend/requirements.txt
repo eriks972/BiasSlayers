@@ -3,3 +3,9 @@ numpy
 scikit-learn
 matplotlib
 seaborn
+flask
+newspaper3k
+transformers
+torch
+re
+colle

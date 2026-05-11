@@ -1,0 +1,7 @@
+true_label,predicted_label,count
+Neutral,Negative,1436
+Neutral,Positive,950
+Negative,Neutral,623
+Positive,Neutral,465
+Negative,Positive,149
+Positive,Negative,60
